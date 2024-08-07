@@ -9,12 +9,25 @@ Este repositorio contiene un análisis comparativo entre dos modelos de segmenta
 
 ## Resumen
 
-El objetivo de este proyecto es comparar la eficiencia y precisión de los modelos de segmentación SAM y UNET. Para ello, se utilizan métricas como IoU que permiten evaluar qué tan bien cada modelo segmenta diferentes tipos de objetos en las imágenes.
+El objetivo de este ejercicio es comparar segmentación semántica de Unet con Samgeo, a partir de un dataset de cuerpos de agua en imágenes Sentinel-2 (RGB). Para ello, se utilizan métricas como IoU que permiten evaluar qué tan bien cada modelo segmenta diferentes tipos de objetos en las imágenes.
 
 ### Resultados
 
 - **SAM**: Proporciona segmentaciones automáticas basadas en el modelo SAM.
 - **UNET**: Implementación personalizada del modelo UNET para segmentación, evaluada con las mismas imágenes y métricas que SAM.
+
+### Comparación de Métricas
+
+La siguiente gráfica muestra la comparación de IoU para ambos modelos, con SAMGE obteniendo una media de 0.8912 y UNET una media de 0.7693.
+
+![Comparación de IoU para UNET y SAMGEO](ruta/a/la/imagen.png)
+
+### Ejemplos de Segmentación
+
+A continuación se presentan algunas imágenes de muestra de la segmentación automática usando SAMGEO:
+
+![Segmentación Automática de SAMGEO](ruta/a/la/imagen1.png)
+![Segmentación Automática de SAMGEO](ruta/a/la/imagen2.png)
 
 ## Uso
 
