@@ -26,7 +26,7 @@ La siguiente gráfica muestra la comparación de IoU para ambos modelos, con SAM
 
 A continuación se presentan algunas imágenes de muestra de la segmentación automática usando SAMGEO:
 
-![Segmentación Automática de SAMGEO](visualizacion_segmentacion_sam.png)
+![Segmentación Automática de SAMGEO](visualizacion segmentacion sam.png)
 ![Segmentación Automática de SAMGEO](ruta/a/la/imagen2.png)
 
 ## Uso
