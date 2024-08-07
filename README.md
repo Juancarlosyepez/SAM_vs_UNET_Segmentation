@@ -18,7 +18,7 @@ El objetivo de este ejercicio es comparar segmentación semántica de Unet con S
 
 ### Comparación de Métricas
 
-La siguiente gráfica muestra la comparación de IoU para ambos modelos, con SAMGE obteniendo una media de 0.8912 y UNET una media de 0.7693.
+La siguiente gráfica muestra la comparación de IoU para ambos modelos, con SAMGEO obteniendo una media de 0.8912 y UNET una media de 0.7693.
 
 ![Comparación de IoU para UNET y SAMGEO](unet_sam.png)
 
