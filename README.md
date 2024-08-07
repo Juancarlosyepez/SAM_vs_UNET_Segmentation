@@ -31,7 +31,7 @@ A continuación se presentan algunas imágenes de muestra de la segmentación au
 
 ## Uso
 
-1. Clona este repositorio: `git clone https://github.com/tuusuario/SAM_vs_UNET_Segmentation.git`
+1. Clona este repositorio: `git clone https://github.com/Juancarlosyepez/SAM_vs_UNET_Segmentation.git`
 2. Abre los cuadernos Jupyter (`.ipynb`) para revisar y ejecutar los experimentos.
 
 ## Contribuciones
